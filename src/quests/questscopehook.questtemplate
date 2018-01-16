@@ -1,0 +1,16 @@
+{
+  "canBeAbandoned": false,
+  "completionText": "",
+  "id": "questscopehook",
+  "invisible": true,
+  "logOnly": true,
+  "mainQuest": false,
+  "moneyRange": [0, 0],
+  "prerequisites": [],
+  "rewards": [],
+  "script": "/quests/scripts/questscopehook.lua",
+  "scriptConfig": {},
+  "text": "",
+  "title": "Quest Scope Hook",
+  "updateDelta": 30
+}

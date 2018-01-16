@@ -1,0 +1,42 @@
+[
+  {
+    "op": "add",
+    "path": "/initialquests/glitch/-",
+    "value": "questscopehook"
+  },
+  {
+    "op": "add",
+    "path": "/initialquests/human/-",
+    "value": "questscopehook"
+  },
+  {
+    "op": "add",
+    "path": "/initialquests/avian/-",
+    "value": "questscopehook"
+  },
+  {
+    "op": "add",
+    "path": "/initialquests/apex/-",
+    "value": "questscopehook"
+  },
+  {
+    "op": "add",
+    "path": "/initialquests/floran/-",
+    "value": "questscopehook"
+  },
+  {
+    "op": "add",
+    "path": "/initialquests/hylotl/-",
+    "value": "questscopehook"
+  },
+  {
+    "op": "add",
+    "path": "/initialquests/novakid/-",
+    "value": "questscopehook"
+  },
+  {
+    "op": "add",
+    "path": "/initialquests/penguin/-",
+    "value": "questscopehook"
+  }
+]

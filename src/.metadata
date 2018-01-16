@@ -1,0 +1,8 @@
+{
+  "author": "Philip Olson",
+  "description": "Creates an invisible quest that can't be completed, as well as hooks into its 'init' and 'update' methods.  This is used by my 'health-monitor' mod to track when the health monitor exists in the player's inventory.",
+  "friendlyName": "Quest Scope Hook",
+  "name": "quest scope hook",
+  "requires" : ["lua hooks"],
+  "version": "0.1"
+}
