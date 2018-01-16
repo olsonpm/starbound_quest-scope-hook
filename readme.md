@@ -30,7 +30,7 @@ added or removed.  It can then stop or start the low health effect accordingly.
 
 
 ### How to install it
-*todo*
+[Like this](https://github.com/olsonpm/starbound_health-monitor/blob/master/docs/how-to-install.md)
 
 
 ### How to use it
