@@ -15,7 +15,7 @@
 ### What is it?
 This mod enables dependent mods to write functions which will run during the
 init and update [Lua Hooks](https://github.com/olsonpm/starbound_lua-hooks)
-of an ever-lasting invisible quest.  Your function will thus have access to
+of an everlasting invisible quest.  Your function will thus have access to
 globals such as [`player`](https://starbounder.org/Modding:Lua/Tables/Player)
 which are available in quest contexts, which is the purpose of this mod.
 
